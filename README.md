@@ -1,6 +1,6 @@
 # 📚 Cadastro API — Spring Boot para Estudo
 
-API REST de cadastro de usuários construída com Java 17 + Spring Boot 3.
+API REST de cadastro de usuários construída com Java 25 + Spring Boot.
 
 ---
 
@@ -26,7 +26,7 @@ Controller → Service → Repository → Banco de Dados
 ## 🚀 Como Executar
 
 ### Pré-requisitos
-- Java 17+
+- Java 25+
 - Maven 3.8+
 
 ### Rodar a aplicação
